@@ -1,8 +1,8 @@
 # unicode-textbox
 
-Reads text from stdin and outputs it wrapped in an Unicode text box.
+Reads text from `stdin` and outputs it wrapped in an Unicode text box.
 
-## requirements:
+## Requirements:
 
 * python 3 only
 
@@ -37,5 +37,5 @@ fortune | ./box.py
 
 ## Tips
 
-* You can put it on your $PATH, rename it to `box` and simple pipe to `box`,
+* You can put it on your `$PATH`, rename it to `box` and simple pipe to `box`,
 `| box`
